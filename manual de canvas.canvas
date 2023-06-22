@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"file","file":"el enlace.md","id":"c52f6b99e132b3b4","x":-120,"y":-140,"width":380,"height":740,"color":"5"},
+		{"type":"text","text":"flechas?\nlas flechas se jalan desde el punto medio de los lados de las notas, no se reflejan como links de las notas como vista de gráfico\npueden salir de nota avanzadas o post its.","id":"0748fbb981c220d6","x":-920,"y":520,"width":490,"height":160,"color":"4"},
+		{"type":"file","file":"Manual de Obsidian.md","id":"d906281fc3aff5a2","x":-1200,"y":-340,"width":640,"height":460,"color":"6"},
+		{"type":"file","file":"manual de canvas.canvas","id":"ff77f147c1afee87","x":-1720,"y":280,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"d5baa7579af9d56b","fromNode":"0748fbb981c220d6","fromSide":"top","toNode":"d906281fc3aff5a2","toSide":"bottom","color":"4","label":"se pueden crear en el medio un referente de que tipo de relación hay en medio de las flechas."},
+		{"id":"dd8a563af35bf9f5","fromNode":"0748fbb981c220d6","fromSide":"right","toNode":"c52f6b99e132b3b4","toSide":"bottom","color":"4"},
+		{"id":"dc264772af5e7b70","fromNode":"d906281fc3aff5a2","fromSide":"right","toNode":"c52f6b99e132b3b4","toSide":"left","color":"6","label":"por el click\nderecho para la opción\nde crear este escrito"},
+		{"id":"f03acc4c6d29a8bc","fromNode":"c52f6b99e132b3b4","fromSide":"top","toNode":"d906281fc3aff5a2","toSide":"top","color":"5","label":"puedes poner color \nen la flechas con \nclick izquierdo \nseleccionando paleta"},
+		{"id":"21bcf787698cb474","fromNode":"ff77f147c1afee87","fromSide":"right","toNode":"0748fbb981c220d6","toSide":"left","color":"2","label":"se pueden\npasar de\ncamvas a \ncanvas"},
+		{"id":"b859cb8e6a793093","fromNode":"ff77f147c1afee87","fromSide":"right","toNode":"d906281fc3aff5a2","toSide":"bottom","color":"2"}
+	]
+}
